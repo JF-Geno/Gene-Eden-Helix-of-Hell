@@ -850,8 +850,11 @@ MonoBehaviour:
   groundCheckDistance: 0.4
   groundMask:
     serializedVersion: 2
-    m_Bits: 0
+    m_Bits: 8
   animator: {fileID: 1051281995}
+  crouchSpeed: 0
+  normalHeight: 1.9
+  crouchHeight: 1
 --- !u!1001 &1244882811
 PrefabInstance:
   m_ObjectHideFlags: 0
